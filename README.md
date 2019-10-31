@@ -1,2 +1,2 @@
-# C-
-My own C++ project.
+# C/C++
+My own C/C++ project.
